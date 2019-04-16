@@ -1,6 +1,6 @@
 {
   "name": "@salesflare/jsdom",
-  "version": "14.0.0-hotfix.1",
+  "version": "14.0.0-hotfix.2",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
     "dom",
