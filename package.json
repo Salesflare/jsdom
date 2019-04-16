@@ -1,5 +1,5 @@
 {
-  "name": "jsdom",
+  "name": "@salesflare/jsdom",
   "version": "14.0.0-hotfix.1",
   "description": "A JavaScript implementation of many web standards",
   "keywords": [
@@ -17,7 +17,7 @@
     "Zirro <code@zirro.se>"
   ],
   "license": "MIT",
-  "repository": "jsdom/jsdom",
+  "repository": "salesflare/jsdom",
   "dependencies": {
     "abab": "^2.0.0",
     "acorn": "^6.0.4",
