@@ -1,3 +1,5 @@
+`The quick fix we did was properly implemented by jsdom so you should switch back to jsdom@14.1.x`
+
 <h1 align="center">
     <img width="100" height="100" src="logo.svg" alt=""><br>
     jsdom
